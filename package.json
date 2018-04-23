@@ -1,0 +1,14 @@
+{
+  "name": "simple-renderer",
+  "version": "1.0.0",
+  "description": "a simple js renderer",
+  "main": "server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "heeler media",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
